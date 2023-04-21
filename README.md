@@ -1,1 +1,1 @@
-# react-crud-tailawind-localstorage
+# react-crud-vit-tailawindcss-localstorage
